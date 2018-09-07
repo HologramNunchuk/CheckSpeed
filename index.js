@@ -1,4 +1,4 @@
-checkSpeed(300);
+checkSpeed();
 
 function checkSpeed(speed) {
   const speedLimit = 70;
